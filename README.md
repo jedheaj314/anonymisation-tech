@@ -6,7 +6,7 @@ The goal of this project is to provide a benchmark for comparing the performance
 ## Technologies
 The following anonymisation technologies are currently included in this repository:
 
-Presidion: This tool comes with two models to anonymise PII by default. This tool is know for modularity as any third party models and strategy can be implmeneted under this.
+Presidio: This tool comes with two models to anonymise PII by default. This tool is know for modularity as any third party models and strategy can be implmeneted under this.
 
 .....
 
